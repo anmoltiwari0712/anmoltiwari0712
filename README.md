@@ -14,6 +14,7 @@
 - 📫 How to reach me **oanmoltiwari7@gmail.com**
 
 - ⚡ Fun fact **I Think I’m in Love With Coding❤️**
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/264642...">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -32,4 +33,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anmoltiwari0712&show_icons=true&locale=en&layout=compact" alt="anmoltiwari0712" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anmoltiwari0712&show_icons=true&locale=en" alt="anmoltiwari0712" /></p>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/264642...">
+
