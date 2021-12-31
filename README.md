@@ -14,7 +14,7 @@
 - 📫 How to reach me **oanmoltiwari7@gmail.com**
 
 - ⚡ Fun fact **I Think I’m in Love With Coding❤️**
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/264642...">
+<img align="right" alt="Coding" width="400" src="https://www.shutterstock.com/image-vector/workplace-computer-little-man-doodle-cute-1973816471">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
