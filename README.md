@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anmoltiwari0712&label=Profile%20views&color=0e75b6&style=flat" alt="anmoltiwari0712" /> </p>
 
 <p align="left"> <a href="https://twitter.com/oanmoltiwari7" target="blank"><img src="https://img.shields.io/twitter/follow/oanmoltiwari7?logo=twitter&style=for-the-badge" alt="oanmoltiwari7" /></a> </p>
+<img align="right" alt="Coding" width="300" src="https://github.com/anmoltiwari0712/images/blob/main/pic.png">
 
 - 🌱 I’m currently learning **DSA THROGH C++**
 
@@ -34,5 +35,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anmoltiwari0712&show_icons=true&locale=en" alt="anmoltiwari0712" /></p>
 
-<img align="right" alt="Coding" width="300" src="https://github.com/anmoltiwari0712/images/blob/main/pic.png">
+
 
