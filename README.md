@@ -12,7 +12,7 @@ I care deeply about:
 
 > Me after fixing a production bug at 2 AM:
 
-![It works on my machine](https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fmakeameme.org%2Fmeme%2Fit-works-on-5b27d8&ved=0CBYQjRxqFwoTCNiakrbw8ZIDFQAAAAAdAAAAABAI&opi=89978449)
+![It works on my machine](https://pbs.twimg.com/media/HA8emVKbsAcM7BH?format=jpg&name=medium)
 
 ---
 
