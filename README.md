@@ -12,8 +12,7 @@ I care deeply about:
 
 > Me after fixing a production bug at 2 AM:
 
-![It works on my machine](https://pbs.twimg.com/media/HA8emVKbsAcM7BH?format=jpg&name=medium)
-
+<img src="https://pbs.twimg.com/media/HA8emVKbsAcM7BH?format=jpg&name=medium" width="350" />
 ---
 
 ## 💻 LeetCode Activity
