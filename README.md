@@ -1,5 +1,16 @@
 # Hi, I'm Anmol Tiwari 👋
 
+
+
+## About Me
+Software Engineer building and operating scalable, production-grade systems using .NET Core, C#, SQL Server, and cloud platforms.  
+Currently working as a .NET Developer at Cognizant, focused on designing reliable RESTful services, optimizing databases, and shipping stable systems in Agile environments.
+
+> Me shipping code to production:
+
+![Shipping to prod meme](https://i.imgflip.com/65efzo.jpg)
+
+
 ## About Me
 Software Engineer building and operating **scalable, production-grade systems** using .NET Core, C#, SQL Server, and cloud platforms.  
 Currently working as a **.NET Developer at Cognizant**, focused on designing reliable RESTful services, optimizing databases, and shipping stable systems in Agile environments.
