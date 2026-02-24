@@ -1,11 +1,5 @@
 # Hi, I'm Anmol Tiwari 👋
 
-## 💻 LeetCode Stats
-
-
-
-![LeetCode Heatmap](https://leetcard.jacoblin.cool/bilkulanmol?ext=heatmap)
-
 ## About Me
 I’m a Software Developer with experience in .NET, React, and building scalable web applications.  
 Currently working at Cognizant as a Programmer Analyst Trainee, with hands-on experience in enterprise development, APIs, and frontend systems.
@@ -15,6 +9,11 @@ I’m passionate about:
 - Building real-world products
 - System design, backend engineering, and UI/UX
 - Solving problems with Data Structures & Algorithms
+
+## 💻 LeetCode Stats
+
+![LeetCode Heatmap](https://leetcard.jacoblin.cool/bilkulanmol?ext=heatmap)
+
 
 ## 🛠 Tech Stack
 
