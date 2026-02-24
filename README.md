@@ -3,7 +3,6 @@
 ## 💻 LeetCode Stats
 
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/bilkulanmol)
 
 ![LeetCode Heatmap](https://leetcard.jacoblin.cool/bilkulanmol?ext=heatmap)
 
