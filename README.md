@@ -46,9 +46,9 @@ I’m passionate about:
 
 > 🔁 Replace `YOUR_LEETCODE_USERNAME` with your actual LeetCode username
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME)
+![LeetCode Stats](https://leetcard.jacoblin.cool/bilkulanmol)
 
-![LeetCode Heatmap](https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?ext=heatmap)
+![LeetCode Heatmap](https://leetcard.jacoblin.cool/bilkulanmol?ext=heatmap)
 
 ## 🎓 Education
 
@@ -63,7 +63,7 @@ CGPA: 7.84
 
 ## 🌐 Connect With Me
 
-- GitHub: https://github.com/AnmolTiwari
-- LinkedIn: (add your LinkedIn here)
-- Portfolio: (add your portfolio link here)
-- Email: (add your email here)
+- GitHub: https://github.com/anmoltiwari0712
+- LinkedIn: https://www.linkedin.com/in/oanmoltiwari7/
+- Portfolio: http://bilkulanmol.vercel.app
+- Email: oanmoltiwari7@gmail.com
