@@ -80,5 +80,5 @@ B.Tech in Computer Science and Engineering — **CGPA: 7.93 / 10**
 
 ## 😄 Dev Mood (Because Reality)
 
-![Debugging](https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fplaky.com%2Fblog%2Fprogramming-memes%2F&ved=0CBYQjRxqFwoTCKjV_dPw8ZIDFQAAAAAdAAAAABA-&opi=89978449)
+![Debugging](https://plaky.com/blog/wp-content/uploads/2023/08/It-was-me.jpg)
 ![Production bug](https://i.imgflip.com/65efzo.jpg)
