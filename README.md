@@ -1,16 +1,5 @@
 # Hi, I'm Anmol Tiwari 👋
 
-
-
-## About Me
-Software Engineer building and operating scalable, production-grade systems using .NET Core, C#, SQL Server, and cloud platforms.  
-Currently working as a .NET Developer at Cognizant, focused on designing reliable RESTful services, optimizing databases, and shipping stable systems in Agile environments.
-
-> Me shipping code to production:
-
-![Shipping to prod meme](https://i.imgflip.com/65efzo.jpg)
-
-
 ## About Me
 Software Engineer building and operating **scalable, production-grade systems** using .NET Core, C#, SQL Server, and cloud platforms.  
 Currently working as a **.NET Developer at Cognizant**, focused on designing reliable RESTful services, optimizing databases, and shipping stable systems in Agile environments.
@@ -21,9 +10,17 @@ I care deeply about:
 - Cloud infrastructure, observability, and cost-efficient systems  
 - Owning production quality and continuously improving engineering processes  
 
+> Me after fixing a production bug at 2 AM:
+
+![It works on my machine](https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fmakeameme.org%2Fmeme%2Fit-works-on-5b27d8&ved=0CBYQjRxqFwoTCNiakrbw8ZIDFQAAAAAdAAAAABAI&opi=89978449)
+
+---
+
 ## 💻 LeetCode Activity
 
 ![LeetCode Heatmap](https://leetcard.jacoblin.cool/bilkulanmol?ext=heatmap)
+
+---
 
 ## 🛠 Tech Stack
 
@@ -32,6 +29,8 @@ I care deeply about:
 **Cloud & DevOps:** Azure, AWS, Docker, Kubernetes, CI/CD, GitHub Actions  
 **Databases & Tools:** SQL Server, MongoDB, Git, Kafka, Power BI, PyTorch  
 
+---
+
 ## 🚀 Experience
 
 **Cognizant Technology Solutions** — .NET Developer (Jul 2025 – Present) | Chennai, India  
@@ -39,6 +38,8 @@ I care deeply about:
 - Design and optimize **database schemas and SQL queries**, improving API response times and data reliability  
 - Build and secure **RESTful APIs** for data ingestion and consumption following clean architecture and validation practices  
 - Work in **Agile/Scrum teams**, contributing to CI/CD pipelines, code reviews, and sprint planning to ensure reliable releases  
+
+---
 
 ## 📌 Featured Projects
 
@@ -51,10 +52,14 @@ I care deeply about:
 - Built an **end-to-end ML pipeline** for MRI-based tumor detection using Python, TensorFlow, and OpenCV  
 - Designed the pipeline for **reproducible experiments and model versioning**, enabling reliable evaluation and iteration on datasets and architectures  
 
+---
+
 ## 🎓 Education
 
 **Vellore Institute of Technology, Vellore (2021 – 2025)**  
 B.Tech in Computer Science and Engineering — **CGPA: 7.93 / 10**
+
+---
 
 ## 📜 Certifications
 
@@ -62,9 +67,18 @@ B.Tech in Computer Science and Engineering — **CGPA: 7.93 / 10**
 - AWS Certified AI Practitioner (Oct 2025)  
 - Microsoft Certified: Azure Administrator Associate (Apr 2024)  
 
+---
+
 ## 🌐 Connect With Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/anmoltiwari0712)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/oanmoltiwari7/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=for-the-badge&logo=vercel)](http://bilkulanmol.vercel.app)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:oanmoltiwari7@gmail.com)
+
+---
+
+## 😄 Dev Mood (Because Reality)
+
+![Debugging](https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fplaky.com%2Fblog%2Fprogramming-memes%2F&ved=0CBYQjRxqFwoTCKjV_dPw8ZIDFQAAAAAdAAAAABA-&opi=89978449)
+![Production bug](https://i.imgflip.com/65efzo.jpg)
