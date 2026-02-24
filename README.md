@@ -1,5 +1,12 @@
 # Hi, I'm Anmol Tiwari 👋
 
+## 💻 LeetCode Stats
+
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/bilkulanmol)
+
+![LeetCode Heatmap](https://leetcard.jacoblin.cool/bilkulanmol?ext=heatmap)
+
 ## About Me
 I’m a Software Developer with experience in .NET, React, and building scalable web applications.  
 Currently working at Cognizant as a Programmer Analyst Trainee, with hands-on experience in enterprise development, APIs, and frontend systems.
@@ -42,13 +49,7 @@ I’m passionate about:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnmolTiwari&layout=compact&hide_border=true)
 
-## 💻 LeetCode Stats
 
-> 🔁 Replace `YOUR_LEETCODE_USERNAME` with your actual LeetCode username
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/bilkulanmol)
-
-![LeetCode Heatmap](https://leetcard.jacoblin.cool/bilkulanmol?ext=heatmap)
 
 ## 🎓 Education
 
