@@ -1,4 +1,4 @@
-# Hi, I'm Anmol Tiwari 👋 <img src="https://komarev.com/ghpvc/?username=anmoltiwari0712&label=profile%20views&color=grey&style=flat" height="20" />
+# Hi, I'm Anmol Tiwari 👋 <img src="https://komarev.com/ghpvc/?username=anmoltiwari0712&label=views&color=grey&style=flat" height="20" />
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/anmoltiwari0712)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/oanmoltiwari7/)
