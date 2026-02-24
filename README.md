@@ -1,7 +1,5 @@
 # Hi, I'm Anmol Tiwari 👋
 
-## 🌐 Connect With Me
-
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/anmoltiwari0712)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/oanmoltiwari7/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=for-the-badge&logo=vercel)](http://bilkulanmol.vercel.app)
