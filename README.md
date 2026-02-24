@@ -1,5 +1,12 @@
 # Hi, I'm Anmol Tiwari 👋
 
+## 🌐 Connect With Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/anmoltiwari0712)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/oanmoltiwari7/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=for-the-badge&logo=vercel)](http://bilkulanmol.vercel.app)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:oanmoltiwari7@gmail.com)
+
 ## About Me
 Software Engineer building and operating **scalable, production-grade systems** using .NET Core, C#, SQL Server, and cloud platforms. Currently working as a **.NET Developer at Cognizant**, focused on designing reliable RESTful services, optimizing databases, and shipping stable systems in Agile environments.
 
@@ -64,15 +71,6 @@ B.Tech in Computer Science and Engineering — **CGPA: 7.93 / 10**
 - AWS Certified Cloud Practitioner (Jan 2026)  
 - AWS Certified AI Practitioner (Oct 2025)  
 - Microsoft Certified: Azure Administrator Associate (Apr 2024)  
-
----
-
-## 🌐 Connect With Me
-
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/anmoltiwari0712)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/oanmoltiwari7/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=for-the-badge&logo=vercel)](http://bilkulanmol.vercel.app)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:oanmoltiwari7@gmail.com)
 
 ---
 
