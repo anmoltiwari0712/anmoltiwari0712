@@ -27,11 +27,6 @@ I’m passionate about:
 
 ## 📌 Featured Projects
 
-**AptiQuest** — MERN Stack Aptitude Training Platform  
-- Built a full-stack platform with React, Node.js, Express, and MongoDB  
-- Implemented study materials, progress tracking, and a user-friendly UI  
-- Focused on UX to improve engagement during placement preparation  
-
 **PixelSnitch** — Website UX Reviewer Tool  
 - Web app that analyzes any website URL and generates a structured UX review  
 - Groups issues by clarity, layout, navigation, accessibility, and trust  
@@ -43,7 +38,7 @@ I’m passionate about:
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnmolTiwari&show_icons=true&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anmoltiwari0712&show_icons=true&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnmolTiwari&layout=compact&hide_border=true)
 
