@@ -78,4 +78,4 @@ B.Tech in Computer Science and Engineering — **CGPA: 7.93 / 10**
 
 ## 😄 Dev Mood (Because Reality)
 
-<img src="https://i.imgflip.com/65efzo.jpg" width="300" />
+<img src="https://preview.redd.it/little-does-he-know-v0-d40wozinhn3b1.png?width=640&crop=smart&auto=webp&s=b79478e42795f4731d36ae1fc1224f204fe1ece9" width="300" />
