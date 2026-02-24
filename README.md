@@ -1,8 +1,7 @@
 # Hi, I'm Anmol Tiwari 👋
 
 ## About Me
-Software Engineer building and operating **scalable, production-grade systems** using .NET Core, C#, SQL Server, and cloud platforms.  
-Currently working as a **.NET Developer at Cognizant**, focused on designing reliable RESTful services, optimizing databases, and shipping stable systems in Agile environments.
+Software Engineer building and operating **scalable, production-grade systems** using .NET Core, C#, SQL Server, and cloud platforms. Currently working as a **.NET Developer at Cognizant**, focused on designing reliable RESTful services, optimizing databases, and shipping stable systems in Agile environments.
 
 I care deeply about:
 - Backend systems, APIs, and data-intensive services  
@@ -79,5 +78,4 @@ B.Tech in Computer Science and Engineering — **CGPA: 7.93 / 10**
 
 ## 😄 Dev Mood (Because Reality)
 
-![Debugging](https://plaky.com/blog/wp-content/uploads/2023/08/It-was-me.jpg)
-![Production bug](https://i.imgflip.com/65efzo.jpg)
+<img src="https://i.imgflip.com/65efzo.jpg" width="300" />
