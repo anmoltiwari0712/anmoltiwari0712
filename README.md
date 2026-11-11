@@ -1,77 +1,103 @@
-# Hi, I'm Anmol Tiwari 👋 <img src="https://komarev.com/ghpvc/?username=anmoltiwari0712&label=views&color=grey&style=flat" height="20" />
+# Anmol Tiwari
 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/anmoltiwari0712)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/oanmoltiwari7/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=for-the-badge&logo=vercel)](http://bilkulanmol.vercel.app)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:oanmoltiwari7@gmail.com)
+**Software Engineer — Backend Systems, LLM Applications & Integrations**  
+📍 Bengaluru, India
 
-## About Me
-Software Engineer building and operating **scalable, production-grade systems** using .NET Core, C#, SQL Server, and cloud platforms. Currently working as a **.NET Developer at Cognizant**, focused on designing reliable RESTful services, optimizing databases, and shipping stable systems in Agile environments.
-
-I care deeply about:
-- Backend systems, APIs, and data-intensive services  
-- Performance, reliability, and clean architecture  
-- Cloud infrastructure, observability, and cost-efficient systems  
-- Owning production quality and continuously improving engineering processes  
-
-> Me after fixing a production bug at 2 AM:
-
-<img src="https://pbs.twimg.com/media/HA8emVKbsAcM7BH?format=jpg&name=medium" width="250" />
----
-
-## 💻 LeetCode Activity
-
-![LeetCode Heatmap](https://leetcard.jacoblin.cool/bilkulanmol?ext=heatmap)
+[![Portfolio](https://img.shields.io/badge/bilkulanmol.vercel.app-18181B?style=flat-square&logo=vercel&logoColor=white)](https://bilkulanmol.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oanmoltiwari7/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/bilkulanmol/)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@bilkulanmol)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:oanmoltiwari7@gmail.com)
 
 ---
 
-## 🛠 Tech Stack
+## ⚡ About
 
-**Languages:** C#, Java, JavaScript, Python, SQL, Bash  
-**Backend & Frameworks:** ASP.NET Core, REST APIs, Entity Framework, React  
-**Cloud & DevOps:** Azure, AWS, Docker, Kubernetes, CI/CD, GitHub Actions  
-**Databases & Tools:** SQL Server, MongoDB, Git, Kafka, Power BI, PyTorch  
+Software Engineer with production engineering experience in Python and backend systems. I build LLM applications, RAG pipelines, and third-party integrations, with a focus on API design, system architecture, and debugging across application and data layers.
 
----
-
-## 🚀 Experience
-
-**Cognizant Technology Solutions** — .NET Developer (Jul 2025 – Present) | Chennai, India  
-- Develop and maintain **scalable backend services** using .NET Core, C#, and SQL Server for enterprise applications  
-- Design and optimize **database schemas and SQL queries**, improving API response times and data reliability  
-- Build and secure **RESTful APIs** for data ingestion and consumption following clean architecture and validation practices  
-- Work in **Agile/Scrum teams**, contributing to CI/CD pipelines, code reviews, and sprint planning to ensure reliable releases  
+> *"Learning in public and building useful things."*
 
 ---
 
-## 📌 Featured Projects
+## 🛠 Toolkit & Stack
 
-### Pixel Snitch — Full-Stack Systems Project
-- Built a **full-stack system** that renders arbitrary URLs using headless browsers and extracts structured DOM data  
-- Designed and implemented **REST APIs and asynchronous background workers** to generate evidence-backed UX audits with scoring, prioritization, and before/after recommendations  
-- Implemented **persistence, report history (last 5 runs), and a system health dashboard** with robust validation, error handling, and failure recovery  
-
-### NeuroScan — ML Systems Project
-- Built an **end-to-end ML pipeline** for MRI-based tumor detection using Python, TensorFlow, and OpenCV  
-- Designed the pipeline for **reproducible experiments and model versioning**, enabling reliable evaluation and iteration on datasets and architectures  
+| Category | Technologies & Tools |
+| :--- | :--- |
+| **Languages** | Python, Java, C#, TypeScript / JavaScript, SQL, Bash |
+| **Backend** | REST APIs, System Design, Data Modeling, Microservices, ASP.NET Core |
+| **AI & LLM Systems** | Tool Calling / Agents, RAG Pipelines, Prompt Engineering, Gemini / OpenAI APIs |
+| **Infrastructure** | Docker, PostgreSQL, Supabase, AWS, Azure, CI/CD |
+| **Practices** | Git, Production Debugging, Third-Party Integrations, Clean Architecture |
 
 ---
 
-## 🎓 Education
+## 🚀 Selected Work
 
-**Vellore Institute of Technology, Vellore (2021 – 2025)**  
-B.Tech in Computer Science and Engineering — **CGPA: 7.93 / 10**
+### 01 / [Athena](https://athena-taupe.vercel.app/) — Multi-Channel AI Customer Support Platform
+An autonomous customer-support platform with LLM agent workflows for order lookup, refund processing, and escalation across chat and voice.
+- **Agent Workflows:** Tool-calling LLM workflows powered by Gemini and GPT-4.1.
+- **Realtime Layer:** PostgreSQL backend with Supabase Realtime subscriptions.
+- **Voice Pipeline:** Streaming voice integrations via Bolna, Deepgram, and ElevenLabs.
+- **Tech Stack:** `Gemini` • `GPT-4.1` • `PostgreSQL` • `Supabase` • `Deepgram` • `ElevenLabs`
+
+### 02 / [Jobify](https://jobifyfinds.vercel.app/) — AI-Powered Browser Extension
+A GenAI browser extension featuring an automated resume parser and job-match scoring engine.
+- **Matching Engine:** LLM APIs and RAG pipelines for resume-to-job matching.
+- **Detection System:** Four-layer automated ATS detection engine for seamless portal data extraction.
+- **Tech Stack:** `LLM APIs` • `RAG Pipelines` • `Browser Extension` • `ATS Integration`
+
+### 03 / [DevDose](https://devdosee.vercel.app/) — Daily 3-Minute Architectural Reading Ritual
+High-retention, 3-minute architectural breakdowns of dense engineering war stories, production post-mortems, distributed systems whitepapers, and high-scale system designs from companies like Netflix, Uber, Discord, and Cloudflare.
+- **Focus:** System design decisions, trade-offs, and distributed systems patterns.
+- **Tech Stack:** `System Design` • `Distributed Systems` • `Technical Education`
+
+### 04 / [Pixel Snitch](https://pixelsnitch.vercel.app/) — Automated UX & DOM Audit System
+A full-stack audit platform that renders arbitrary URLs using headless browsers to extract structured DOM metrics, calculate scoring, and provide prioritized engineering recommendations.
+- **Tech Stack:** `TypeScript` • `Headless Browsers` • `Background Workers` • `REST APIs`
+
+---
+
+## 💼 Experience
+
+**Cognizant Technology Solutions** — *Software Engineer*  
+*Jul 2025 – Present | Bengaluru, India*
+- Debugging complex issues across application and data layers in large existing codebases.
+- Integrating third-party APIs and internal enterprise systems into production workflows.
+- Communicating technical progress with technical and non-technical stakeholders.
+- Taking ownership of ambiguous tasks in fast-moving engineering environments.
 
 ---
 
 ## 📜 Certifications
 
-- AWS Certified Cloud Practitioner (Jan 2026)  
-- AWS Certified AI Practitioner (Oct 2025)  
-- Microsoft Certified: Azure Administrator Associate (Apr 2024)  
+- **AWS Certified Developer – Associate** `(Apr 2026 – Apr 2029)` — [Credly Verification](https://www.credly.com/badges/dcd0b7cd-1bbc-44ea-96bc-222e500b643e/public_url)
+- **Claude Certified Architect (CCA) Foundations** — *Anthropic* `(Mar 2026)` — [Verification](https://verify.skilljar.com/c/preuumm6cvyp)
+- **AWS Certified Cloud Practitioner** `(Jan 2026 – Jan 2029)` — [Credly Verification](https://www.credly.com/badges/324152e5-e6b6-49ce-ba2a-9147e5ce89d1/public_url)
+- **AWS Certified AI Practitioner** `(Oct 2025 – Oct 2028)` — [Credly Verification](https://www.credly.com/badges/dd139cfc-abcc-4a4e-be22-3c265b343843/linked_in_profile)
+- **Microsoft Certified: Azure Administrator Associate** `(Apr 2024)`
 
 ---
 
-## 😄 Dev Mood (Because Reality)
+## 🎓 Education
 
-<img src="https://preview.redd.it/little-does-he-know-v0-d40wozinhn3b1.png?width=640&crop=smart&auto=webp&s=b79478e42795f4731d36ae1fc1224f204fe1ece9" width="300" />
+**Vellore Institute of Technology (VIT), Vellore**  
+*B.Tech in Computer Science and Engineering* `(2021 – 2025)` — **CGPA: 7.93 / 10**
+
+---
+
+## 📊 Activity & Problem Solving
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/bilkulanmol?ext=heatmap" alt="LeetCode Heatmap" width="85%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anmoltiwari0712&show_icons=true&theme=dark&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anmoltiwari0712&theme=dark&hide_border=true" width="48%" />
+</p>
+
+---
+
+<p align="center">
+  <sub>Built by <a href="https://bilkulanmol.vercel.app">Anmol Tiwari</a> • Powered by continuous learning and production reliability.</sub>
+</p>
