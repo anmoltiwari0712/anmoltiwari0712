@@ -1,5 +1,7 @@
 # Anmol Tiwari
 
+![Profile Views](https://komarev.com/ghpvc/?username=anmoltiwari0712&style=flat-square&color=blue)
+
 **Software Engineer — Backend Systems, LLM Applications & Integrations**  
 📍 Bengaluru, India
 
